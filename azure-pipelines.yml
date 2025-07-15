@@ -78,3 +78,4 @@ stages:
             --name CustomScriptExtension `
             --publisher Microsoft.Compute `
             --settings @$jsonFile # Usa @ para indicar que é um caminho de arquivo
+  # fim
