@@ -9,7 +9,7 @@
             "value": "vm-iac-web-iis"
         },
         "location": {
-            "value": "eastus2"
+            "value": "WestUS3"
         },
         "adminUsername": {
             "value": "iacadmin"
@@ -18,10 +18,10 @@
             "value": "SuaSenhaSeguraAqui123!"
         },
         "vmSku": {
-            "value": "D2s_v3"
+            "value": "Standard_B2as_v2"
         },
         "windowsOSVersion": {
-            "value": "2019-Datacenter"
+            "value": "2022-datacenter-azure-edition"
         }
     }
 }
