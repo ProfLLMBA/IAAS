@@ -95,6 +95,9 @@
       "apiVersion": "2021-02-01",
       "name": "[variables('publicIpAddressName')]",
       "location": "[parameters('location')]",
+      "sku": {
+        "name": "Standard"
+      }
       "properties": {
         "publicIPAllocationMethod": "Static",
         "dnsSettings": {
